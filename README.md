@@ -18,11 +18,10 @@
   </a>
 </p>
 
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoKitatani&show_icons=true" style="max-width:100%;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoKitatani&show_icons=true" style="max-width:50%;" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&layout=compact&langs_count=6&hide=coffeescript"style="max-width:100%;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&layout=compact&langs_count=6&hide=coffeescript"style="max-width:50%;" />
 </a>
-<div>
+
