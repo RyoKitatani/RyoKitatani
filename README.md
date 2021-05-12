@@ -4,7 +4,7 @@
   <a href="https://github.com/RyoKitatani/RyoKitatani/">
     <img src="https://komarev.com/ghpvc/?username=RyoKitatani" alt="RyoKitatani"/>
   </a>
-  <a href="http://twitter.com/ryo____eng" target="_blank">
+  <a href="http://twitter.com/ryo____eng", target="_blank">
     <img height="20" src="https://img.shields.io/twitter/follow/ryo____eng?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/RyoKitatani" target="_blank">
