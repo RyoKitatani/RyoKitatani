@@ -16,6 +16,9 @@
   <a href="http://qiita.com/tani__san929">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tani__san929/contributions.svg" />
   </a>
+  <a href="https://instagram.com/ryo____food" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ryo____food" height="30" width="40" /></a>
+  </p>
 </p>
 
 <a href="https://github.com/RyoKitatani">
