@@ -17,3 +17,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/tani__san929/contributions.svg" />
   </a>
 </p>
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=RyoKitatani)
