@@ -22,5 +22,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoKitatani&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&langs_count=8&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&langs_count=8&layout=compact&hide=SCSS,CSS,coffee,shell" />
 </a>
