@@ -25,3 +25,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&layout=compact&langs_count=6&hide=coffeescript" style="width:100%;" />
 </a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyoKitatani&theme=vue)
