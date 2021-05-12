@@ -19,10 +19,10 @@
 </p>
 
 <a href="https://github.com/RyoKitatani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyoKitatani&show_icons=true" style="width:100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyoKitatani&show_icons=true" />
 </a>
 <a href="https://github.com/RyoKitatani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&layout=compact&langs_count=6&hide=coffeescript" style="width:100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&layout=compact&langs_count=6&hide=coffeescript" />
 </a>
 <a href="https://github.com/RyoKitatani">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyoKitatani&theme=vue" height="260px" style="max-width:100%;" />
