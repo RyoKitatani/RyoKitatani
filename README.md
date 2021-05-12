@@ -13,13 +13,10 @@
   <a href="https://www.reddit.com/user/yutkat">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/5720201/yutkat">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
+  <a href="http://qiita.com/tani__san929">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tani__san929/posts.svg" />
   </a>
-  <a href="http://qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
-  </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  <//qiita.com/tani__san929">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tani__san929/contributions.svg" />
   </a>
 </p>
