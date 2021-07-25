@@ -10,11 +10,11 @@
   <a href="https://github.com/RyoKitatani">
     <img height="20" src="https://img.shields.io/github/followers/RyoKitatani?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/tani__san929">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tani__san929/posts.svg" />
+  <a href="http://qiita.com/ryo___eng">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ryo___eng/posts.svg" />
   </a>
-  <a href="http://qiita.com/tani__san929">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tani__san929/contributions.svg" />
+  <a href="http://qiita.com/ryo___eng">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ryo___eng/contributions.svg" />
   </a>
 </p>
 
