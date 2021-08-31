@@ -19,14 +19,17 @@
 </p>
 
 <a href="https://github.com/RyoKitatani">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyoKitatani&theme=vue" height="260px" style="max-width:100%;" />
+<a href="https://github.com/RyoKitatani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RyoKitatani&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/RyoKitatani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&layout=compact&langs_count=6&hide=coffeescript&hide_border=true" />
 </a>
-<a href="https://github.com/RyoKitatani">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyoKitatani&theme=vue" height="260px" style="max-width:100%;" />
+
 </a>
+
+----
 
 ### certifacations
 <img src="https://user-images.githubusercontent.com/77328172/130640591-b84611a7-fde6-40bb-86dd-e7b9545ac1df.png" width="100px">
