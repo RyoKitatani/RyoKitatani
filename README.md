@@ -27,7 +27,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoKitatani&layout=compact&langs_count=6&hide=coffeescript&hide_border=true" />
 </a>
 
-</a>
 
 ----
 
